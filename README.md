@@ -1,4 +1,4 @@
-# Technial Project Lead at Lambda School ![lambda school logo](https://i.imgur.com/fLDbfDP.png)
+# Software Engineer at Quikserve
 
 ![about me banner](https://i.imgur.com/0PP3oVh.png)
 
@@ -6,7 +6,7 @@
 
 <!-- -------------------------------- -->
 
-**JavaScript | TypeScript | Python | React | Bash | Linux | Node | GraphQL | REST**
+**JavaScript | TypeScript | Rust | Golang | React | Bash | Linux | Node | GraphQL | REST**
 
 <!-- -------------------------------- -->
 
