@@ -16,7 +16,7 @@
 
 I have a huge passion for developing full stack applications.
 
-I'm the proud owner of my own open source style library, sriracha-ui.
+I'm the proud owner of my own open source style library, [sriracha-ui](https://sriracha-docs.vercel.app/) and markdown editor/cms [Best Markdown Editor](https://www.bestmarkdowneditor.app/).
 
 Big Linux nut. You can typically catch me writing bash scripts and working on my dotfiles.
 
