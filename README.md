@@ -1,4 +1,4 @@
-# Full Stack Web Developer and Android Developer
+# Full Stack Web and Android Developer
 
 ![about me banner](https://i.imgur.com/0PP3oVh.png)
 
