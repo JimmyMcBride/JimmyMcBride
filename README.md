@@ -1,12 +1,12 @@
-# Software Engineer / Full Stack Web Developer For Hire!
+# Full Stack Web Developer and Android Developer
 
 ![about me banner](https://i.imgur.com/0PP3oVh.png)
 
-## Full Stack Web Developer
+## Full Stack App Developer
 
 <!-- -------------------------------- -->
 
-**JavaScript | TypeScript | Rust | Golang | React | Bash | Linux | Node | GraphQL | REST**
+**JavaScript | TypeScript | Rust | Golang | React | Bash | Linux | Node | GraphQL | REST | Kotlin | Android**
 
 <!-- -------------------------------- -->
 
@@ -22,7 +22,7 @@ Big Linux nut. You can typically catch me writing bash scripts and working on my
 
 Experimenting with code is my jam, I'm all about playing around with new ways to build apps.
 
-Love to blog about all things related to React, GraphQL, Bash, Linux, and general experimentation with code.
+Love to blog about all things related to what I'm currently passionate about in the development world.
 
 <!-- --- -->
 
