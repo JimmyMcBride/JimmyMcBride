@@ -1,12 +1,12 @@
-# Full Stack Web and Android Developer
+# Android Developer
 
-![about me banner](https://i.imgur.com/0PP3oVh.png)
+![about me banner](https://i.imgur.com/RVTa5Ef.png)
 
 ## Full Stack App Developer
 
 <!-- -------------------------------- -->
 
-**JavaScript | TypeScript | Rust | Golang | React | Bash | Linux | Node | GraphQL | REST | Kotlin | Android**
+**Kotlin | Java | Android | Jetpack Compose | Material Design | OOP | Backend | Frontend | Fullstack | Linux | GraphQL | REST**
 
 <!-- -------------------------------- -->
 
@@ -14,7 +14,9 @@
 
 ## About Me
 
-I have a huge passion for developing full stack applications.
+I have a huge passion for developing android and full stack applications.
+
+Always learning the most cutting edge techonolgies.
 
 I'm the proud owner of my own open source style library, [sriracha-ui](https://sriracha-docs.vercel.app/) and markdown editor/cms [Best Markdown Editor](https://www.bestmarkdowneditor.app/).
 
