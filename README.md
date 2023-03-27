@@ -52,12 +52,6 @@ I'm a passionate software engineer with a knack for creating efficient, scalable
 
 <a href="https://www.youtube.com/c/UCZelhAb-neMcRRekk46EeSg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/JimmyMcBride"><img src="https://github-readme-stats.vercel.app/api?username=JimmyMcBride&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JimmyMcBride's GitHub stats" /></a>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/mcbride967c"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
