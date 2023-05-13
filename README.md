@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jimmy McBride
 =====================================================================================================================================
 
-Full Stack Developer
+Full Stack Android/Kotlin Developer
 --------------------
 
 I'm a passionate software engineer with a knack for creating efficient, scalable, and maintainable code. I love exploring the latest technologies and collaborating on open-source projects to contribute to the developer community. When I'm not coding, you can find me delving into the world of AI, sharing my knowledge through blogging, or pursuing my favorite hobbies. Let's connect and build something amazing together! 🚀
